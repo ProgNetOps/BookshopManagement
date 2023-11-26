@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Seyi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Seyi\\.nuget\\packages"
+    ]
+  }
+}

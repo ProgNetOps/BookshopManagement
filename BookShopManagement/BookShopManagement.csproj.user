@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomControls\DragControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_AddExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_AddNewBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_AddStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form_FinishOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ManageExpense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ManageUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_PurchaseDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_Sales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UC_ViewSales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
